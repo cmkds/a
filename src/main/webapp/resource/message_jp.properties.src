@@ -1,0 +1,8 @@
+LOGMSG = サインインしてセッションを開始します
+EMAIL = Eメール
+PASSWORD = パスワード
+REMEMBERME = 私を覚えてますか
+SIGNIN = ログイン
+OR = また
+FORGOT = パスワードを忘れた
+REGISTER = 新しいメンバーシップを登録する
